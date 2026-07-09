@@ -170,3 +170,11 @@ Add your screenshots inside the **images** folder and display them below.
 * PyTorch
 * Gradio
 * DevelopersHub Corporation
+
+## Note
+
+The `saved_model` directory does not include the `model.safetensors` file because the fine-tuned BERT model exceeds GitHub's maximum file size limit for standard repositories.
+
+All model training, preprocessing, fine-tuning, evaluation, and model-saving steps are fully documented in the Jupyter Notebook (`Task1_BERT_News_Classifier.ipynb`). Running the notebook will regenerate the complete trained model, including the `model.safetensors` file.
+
+The remaining files in the `saved_model` directory (such as the tokenizer and configuration files) are included for reference.
