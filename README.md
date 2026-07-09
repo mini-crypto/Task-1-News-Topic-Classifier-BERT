@@ -1,4 +1,4 @@
-# 📰 News Topic Classifier Using BERT
+# News Topic Classifier Using BERT
 
 ## Overview
 
@@ -12,10 +12,10 @@ This project was completed as part of the **AI/ML Engineering Advanced Internshi
 
 The objective of this project is to build an intelligent news classification system by fine-tuning a pre-trained BERT model. The application predicts the category of a news headline as one of the following:
 
-* 🌍 World
-* ⚽ Sports
-* 💼 Business
-* 💻 Sci/Tech
+* World
+* Sports
+* Business
+* Sci/Tech
 
 ---
 
@@ -140,13 +140,13 @@ Add your screenshots inside the **images** folder and display them below.
 ### Gradio Interface
 
 ```markdown
-![Gradio App](images/gradio_home.png)
+![Gradio App](images/app_before_prediction.png)
 ```
 
 ### Sample Prediction
 
 ```markdown
-![Prediction](images/gradio_prediction.png)
+![Prediction](images/prediction1.png)
 ```
 
 ---
